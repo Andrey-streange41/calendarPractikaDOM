@@ -1,0 +1,28 @@
+.flexListItem
+{
+    border: solid beige 1px;
+    text-align: center;
+    max-height: 220px;
+    height: 220px;
+    max-width: 124px;
+}
+
+.wetherImg
+{
+    max-height: 120px;
+    height: 120px;
+    max-width: 122px;
+}
+
+.timeLabel
+{
+    font-weight: 800;
+}
+
+.degressLabel
+{
+    font-size: x-large;
+    font-weight: bold;
+    background-color: bisque;
+    margin: 0px;
+}

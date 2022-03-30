@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    font-family: var(--defaul-font-femaly);
+    color: var(--defaul-color);
+}
+
+:root
+{
+    --defaul-font-femaly: sans-serif;
+    --defaul-font-color: rgba(82, 57, 43, 0.527);
+}
